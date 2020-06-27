@@ -9,6 +9,7 @@ Important modules that should be needed priorly are:
 4) Web Browser : "pip istall webbrowser"
 5) smtplib : "pip install smtplib"
 6) pyaudio : "pip install pyaudio"
+7) setupTools : "pip install setupTools"
 
 For the working of pyaudio we need to install the modules from third parties like wheel: "pip install wheel" we need to run this in the windows powershell.
 Some doesn't have wheel module too, for that we need to install pywin32 module : "pip install pywin32"
